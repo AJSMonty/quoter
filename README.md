@@ -5,4 +5,5 @@ Criteria:
 * Should return a full quote based on those criteria
 
 Input | Output
-200, 4, 75 | 
+200, 4, 75 | £1225
+150, 3, 100 | £1000
