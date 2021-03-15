@@ -6,6 +6,6 @@ describe 'Quoter' do
     end
 
     it 'returns a value of £1000 with 3 argument (150, 3, 100)' do
-        expect(quoter(150, 3, 100)).to eq '£1000'
+        expect(quoter(150, 3, 100)).to eq '£1050'
     end
 end
