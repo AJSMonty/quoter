@@ -6,5 +6,6 @@ Criteria:
 
 | Input | Output |
 | ------------ | ------- |
+| no_of_guests, time, distance | quote |
 | 200, 4, 75  | £1225 |
 | 150, 3, 100 | £1000 |
